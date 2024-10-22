@@ -64,10 +64,4 @@ For install cors
 ```
 npm install cors
 ```
-
-For install axios
-
-```
-npm install axios
-```
- 
+    
