@@ -40,3 +40,34 @@ For install colors
 ```
 npm install colors
 ```
+
+For install express-async-handler
+
+```
+npm install express-async-handler
+```
+
+For install jsonwebtoken
+
+```
+npm install jsonwebtoken
+```
+
+For install bcrypt
+
+```
+npm install bcrypt
+```
+
+For install cors
+
+```
+npm install cors
+```
+
+For install axios
+
+```
+npm install axios
+```
+ 
